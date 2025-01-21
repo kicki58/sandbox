@@ -1,20 +1,26 @@
 {
-    "title": "test title",
-    "description": "test description",
+    "title": "test title2",
+    "description": "test description2",
     "license": "GPL-3.0",
     "upload_type": "software",
     "access_right": "open",
     "version": "0.14.0",
     "creators": [
         {
-            "name": "Vanderhaeghe, Floris",
-            "affiliation": "Research Institute for Nature and Forest",
-            "orcid": "0000-0002-6378-6229"
+            "name": "Alexander Stendahl, Kristina Martinelle, Daniel Hedén, Daniel Löwenborg, Peter  ",
+            "affiliation": "Uppsala University, Sweco AB",
+
         }
     ],
     "keywords": [
-        "T",
-        "my strange keyword",
-        "another"
+        "Swedigarch",
+        "archaeology",
+        "Uppsala University",
+        "QGIS",
+        "GIS",
+        "geopackage",
+        "gpkg", 
+        "intrasis",
+        "PostgreSQL/PostGIS"
     ]
 }
